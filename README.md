@@ -8,13 +8,6 @@ A RESTful backend API for managing technical support tickets built with Spring B
 
 The Support Ticket System allows users to submit support tickets, managers to handle and respond to them, and admins to manage the entire system. Authentication is handled via JWT tokens with role-based access control.
 
----
-
-## Team Members
-
-| Name | Role |
-|------|------|
-| Student | Backend Developer (Spring Boot, Security, Database) |
 
 ---
 

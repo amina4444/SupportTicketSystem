@@ -22,6 +22,8 @@ public class Ticket {
     @ManyToOne
     @JoinColumn(name = "user_id")
     private User user;
+    @OneToMany(mappedBy = "ticket", cascade = CascadeType.ALL, orphanRemoval = true)
+    private java.util.List<Response> responses;
 
     public Status getStatus() {
         return status;

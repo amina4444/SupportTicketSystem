@@ -3,6 +3,9 @@
 A RESTful backend API for managing technical support tickets built with Spring Boot, Spring Security (JWT), and MySQL.
 
 ---
+# Amina Ismailakhunova
+
+[presentation](https://canva.link/eftogs1f7tro7ox)
 
 ## Project Description
 
